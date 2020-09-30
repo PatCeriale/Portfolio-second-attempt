@@ -14,6 +14,6 @@
 
 **Link to Deployed Website**
 
-> https://patceriale.github.io/Portfolio-second-attempt/portfolio.html
+> https://patceriale.github.io/Portfolio-second-attempt/
 
 **Preview**
